@@ -1,0 +1,148 @@
+/* first section */
+.h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.p1{
+    font-size: 10px;
+}
+/* second section */
+.section2{
+    background-color: rgb(49, 139, 184);
+    text-align: center;
+    padding: 20px;
+ 
+  
+}
+.display-2 h1{
+    font-size: 50px;
+    font: weight 80%;
+}
+
+.inner-box3{
+    padding: auto;
+}
+.pic1{
+    min-height: 100%;
+    height: 700px;
+    width: 800px;
+    float:left;
+}
+.line{
+    font-size: 10px;
+}
+/* third section */
+.section3{
+    background-color:white;
+    padding: 50px;
+}
+.inner-box4{
+    text-align: center;
+}
+.bott{
+    color:rgb(6, 6, 6);
+    background-color:white;
+    
+}
+/* .display-6{
+    font-weight:b;
+} */
+/* fourth section */
+.section4{
+    background-color:rgb(49, 139, 184) ;
+    padding: 70px;
+}
+.inner-box12{
+    text-align: center;
+}
+.img{
+background-color: black;
+}
+.pic2{
+    height:100px;
+    border-radius: 50px;
+    border: 1px solid white;
+    margin-top:15px;
+}
+.pic3{
+    height: 100px;
+    border-radius: 50px;
+    border: 1px solid white;
+    margin-top:15px;
+}
+.pic4{
+    height: 100px;
+    border-radius: 50px;
+    border: 1px solid white;
+    margin-top:15px;
+   
+}
+
+.in{
+    text-align: center;
+    color:whitesmoke;
+}
+/* fith section */
+.section5{
+    background-color:black;
+    padding: 70px;
+}
+
+.bit{
+    color: rgb(17, 19, 19);
+}
+.img{
+    width: 100%;
+    padding: 10px;
+    background-color:white;
+}
+.inner-box7{
+    text-align: center;
+    color: white;
+}
+.rv{
+    color: rgb(24, 17, 246);
+}
+.section6{
+    background-color:white;
+    padding: 50px; 
+}
+.text{
+    font-size: 20px;
+}
+
+
+
+/* 8th section */
+.section8{
+    background-color: black;
+    padding: 50px;
+}
+.two{
+    text-align: center;
+}
+.sec{
+    background-color: rgb(8, 7, 7);
+   
+}
+.diyash{
+    color: blueviolet;
+    font-weight: bold;
+}
+/* 9th section */
+.section9{
+    background-color: white;
+   text-align: center;
+   margin-top: 50px;
+}
+
+
+.overflow{
+    overflow: hidden;
+}
+
+@media(max-width:991px){
+    .inner-box3{
+        padding: 0% !important;
+    }
+}
